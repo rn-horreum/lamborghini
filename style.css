@@ -1,0 +1,32 @@
+img.resize {
+  max-width:7%;
+  max-height:7%;
+}
+
+ui.top.fixed.inverted.borderless menu {
+  box-shadow: none;
+  border: none;
+  color: white;
+}
+
+.lambo-background {
+  background: url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/dealer/08_EVO_Spyder_SVJ_Roadster_Ginevrabis.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 300px;
+  color: white;
+}
+
+.footer-background {
+  background-color: #292929;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer a {
+  color: white;
+}
+
+.ui.relaxed.list .item {
+  color: white;
+}
